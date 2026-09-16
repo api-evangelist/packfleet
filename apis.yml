@@ -38,7 +38,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 x-status: defunct
 x-status-note: Independent brand wound down March 2025; deliveries transitioned to DHL.
 tags:
@@ -50,6 +50,7 @@ tags:
 - Couriers
 - Electric Vehicles
 - Sustainability
+- Defunct
 tags_raw:
 - Company
 - Climate
@@ -59,6 +60,7 @@ tags_raw:
 - Courier
 - Electric Vehicles
 - Sustainability
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
